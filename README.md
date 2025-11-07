@@ -1,2 +1,2 @@
-This is a repository for the code generated and used for the paper "Georgopoulou et. al. (2025) Transcriptomic atlasing of motor system oligodendroglia in health and ALS."
+This is a repository for the code generated and used for the paper "Georgopoulou et. al. (2025) Motor System Oligodendroglia Atlas Reveals Activation States Associated with Region-Specific Vulnerability in ALS."
 These notebooks can be used to reproduce the analysis and figures presented in the manuscript.
